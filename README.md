@@ -1,5 +1,10 @@
 # Healthcare SQL Agent - Model-First MVP
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndrewMichael2020/my-gpt-2-2/blob/main/colab_train.ipynb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
+
 A complete end-to-end pipeline for training a decoder-only language model from scratch to generate safe, validated T-SQL SELECT queries for healthcare analytics.
 
 ## 🚀 Quick Start
