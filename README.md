@@ -9,11 +9,10 @@ A complete end-to-end pipeline for training a decoder-only language model from s
 
 ## 🚀 Quick Start
 
-### Open in Google Colab
+Click the "Open in Colab" badge above to launch the notebook directly in Google Colab, then:
 
-1. Upload `colab_train.ipynb` to Google Colab
-2. Select Runtime → Change runtime type → GPU (T4, L4, or better)
-3. Run all cells sequentially
+1. Select Runtime → Change runtime type → GPU (T4, L4, or better)
+2. Run all cells sequentially
 
 The notebook will:
 - Generate 5,000+ training samples with synthetic SQL queries
